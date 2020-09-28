@@ -1,5 +1,3 @@
-# PYDA-15
-Phython basic homework
 echo "# pyda-15" >> README.md
 git unit
 git add README.md
